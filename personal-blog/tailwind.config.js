@@ -1,0 +1,4 @@
+{
+  darkMode: 'class',
+}
+
